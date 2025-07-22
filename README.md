@@ -89,4 +89,4 @@ Theory:<br>
 This program checks if the input character matches any of the vowels (`a, e, i, o, u`) either in lowercase or uppercase. If it matches, it is a vowel; otherwise, it is treated as a consonant. Useful for understanding character comparisons and conditionals.  
 
 # Conclusion: 
-These programs use switch-case and conditionals in C++ to build interactive logic-based solutions, enhancing control flow understanding and user input handling.
+These programs use switch-case and conditionals in C++ to build interactive logic-based solutions.
